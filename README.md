@@ -4,8 +4,8 @@ Here you can find tools, frameworks and gamejam participations. Have a look arou
 
 **My main projects:**
 
-https://trirecords.eu
+https://trirecords.eu (music label)
 
-https://jensjs.com
+https://jensjs.com (frontend framework)
 
-https://targoninc.com
+https://targoninc.com (software development overview)
