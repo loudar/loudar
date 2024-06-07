@@ -14,4 +14,4 @@ https://jensjs.com (frontend framework)
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: linear-gradient(90deg, rgba(25,27,55,1) 0%, rgba(26,17,46,1) 100%);]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://avatars.githubusercontent.com/u/35202909?v=4'); filter: blur(10px);]{x0000}$}
