@@ -10,4 +10,4 @@ https://targoninc.com (my company)
 
 https://trirecords.eu (music label)
 
-[FJS](https://targoninc.com/fjs) (vanilla js templating + signal framework for frontend)
+[Jess](https://github.com/targoninc/jess) (vanilla js templating + signal framework for frontend)
